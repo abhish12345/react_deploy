@@ -1,0 +1,120 @@
+.product2 {
+  color: var(--neutral-100);
+}
+.faq,
+.features1,
+.integrations4,
+.pricing,
+.product2,
+.updates1 {
+  position: relative;
+}
+.product1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.company1 {
+  color: var(--neutral-100);
+}
+.about1,
+.blog,
+.careers,
+.company1,
+.contact,
+.manifesto,
+.press {
+  position: relative;
+}
+.company {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.resources1 {
+  color: var(--neutral-100);
+}
+.community,
+.docs,
+.examples,
+.guides,
+.resources1 {
+  position: relative;
+}
+.resources {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.legal {
+  color: var(--neutral-100);
+}
+.legal,
+.privacy,
+.security1,
+.terms {
+  position: relative;
+}
+.security {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.footer,
+.footer-l2,
+.menu-items-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.menu-items-container {
+  justify-content: flex-start;
+  gap: 0 48px;
+  max-width: 100%;
+  color: var(--color-gray-100);
+}
+.footer,
+.footer-l2 {
+  box-sizing: border-box;
+}
+.footer-l2 {
+  width: 100%;
+  background-color: var(--color-black);
+  justify-content: space-between;
+  padding: var(--padding-21xl) var(--padding-xl);
+  max-width: 101%;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+}
+.footer {
+  align-self: stretch;
+  background-color: var(--neutral-100);
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  max-width: 100%;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--body-s-size);
+  color: var(--color-silver);
+  font-family: var(--body-s);
+}
+@media screen and (max-width: 750px) {
+  .footer-l2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .menu-items-container {
+    flex-wrap: wrap;
+    gap: 0 24px;
+  }
+}

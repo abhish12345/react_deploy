@@ -1,0 +1,74 @@
+.pulse-1-icon,
+.quantum-1-icon {
+  position: absolute;
+  top: 50px;
+  left: 292.6px;
+  width: 125.1px;
+  height: 32px;
+  object-fit: cover;
+}
+.logo-ticker{
+  width: 100%;
+}
+.pulse-1-icon {
+  top: 54.8px;
+  left: 867.6px;
+  width: 100.8px;
+  height: 22.3px;
+}
+.acme-1-icon,
+.apex-1-icon,
+.celestia-1-icon,
+.echo-1-icon {
+  position: absolute;
+  top: 51.9px;
+  left: 475.9px;
+  width: 160px;
+  height: 28.1px;
+  object-fit: cover;
+}
+.acme-1-icon,
+.apex-1-icon,
+.celestia-1-icon {
+  left: 694.1px;
+  width: 115.4px;
+}
+.acme-1-icon,
+.apex-1-icon {
+  top: 52.9px;
+  left: 1026.7px;
+  width: 85.3px;
+  height: 27.2px;
+}
+.acme-1-icon {
+  top: 50px;
+  left: 88px;
+  width: 146.4px;
+  height: 32px;
+}
+.logo-ticker-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(90deg, #fff, rgba(255, 255, 255, 0) 49.92%, #fff);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.logo-ticker1 {
+  height: 132px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.logo-ticker {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}

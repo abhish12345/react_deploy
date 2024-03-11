@@ -1,0 +1,81 @@
+.logosaas-icon1,
+.logosaas-rectangle {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.logosaas-rectangle {
+  height: 80.49%;
+  top: 14.63%;
+  bottom: 4.88%;
+  background: linear-gradient(
+    89.43deg,
+    #f87bff,
+    #fb92cf 24.06%,
+    #ffdd9b 48.2%,
+    #c2f0b1 72.84%,
+    #2fd8fe
+  );
+  filter: blur(11px);
+}
+.logosaas-icon1 {
+  height: 97.56%;
+  top: 0;
+  bottom: 2.44%;
+  border-radius: var(--br-3xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.logodefault1 {
+  width: 40px;
+  height: 41px;
+  position: relative;
+}
+.effortlessly-turn-your {
+  align-self: stretch;
+  position: relative;
+}
+.ellipse-shape {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.socials-icon,
+.socials-icon1,
+.socials-icon2,
+.socials-icon3,
+.socials-icon4,
+.socials-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.logo-default2,
+.logo-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.logo-group {
+  flex-direction: row;
+  gap: var(--gap-2xs);
+}
+.logo-default2 {
+  width: 240px;
+  flex-direction: column;
+  gap: 111px 0;
+  text-align: left;
+  font-size: var(--body-s-size);
+  color: var(--color-silver);
+  font-family: var(--body-s);
+}

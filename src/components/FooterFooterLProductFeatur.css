@@ -1,0 +1,210 @@
+.as-a-seasoned6 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.frame-project-details {
+  height: 42px;
+  width: 42px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 42px;
+}
+.alex-rivera7 {
+  width: 88px;
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.jamietechguru006 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.frame-testimonial {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-product-features-integra {
+  width: 178px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+  text-align: center;
+}
+.testimonial6 {
+  flex: 0.7538;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  box-shadow: 0 7px 14px #eaeaea;
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) var(--padding-20xl);
+  gap: 20px 0;
+  min-width: 244px;
+  max-width: 100%;
+}
+.as-a-seasoned7 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.updates-icon {
+  height: 42px;
+  width: 42px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 42px;
+}
+.alex-rivera8 {
+  width: 82px;
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.jamietechguru007 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.f-a-q,
+.integrations3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.f-a-q {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.integrations3 {
+  width: 144px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+  text-align: center;
+}
+.testimonial-container,
+.testimonial7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.testimonial7 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  box-shadow: 0 7px 14px #eaeaea;
+  border: 1px solid var(--color-whitesmoke);
+  padding: var(--padding-21xl) var(--padding-20xl);
+  gap: 20px 0;
+}
+.testimonial-container {
+  flex: 1;
+  padding: var(--padding-4xl) 0 0;
+  box-sizing: border-box;
+  min-width: 244px;
+  max-width: 100%;
+}
+.as-a-seasoned8 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.frame-child3 {
+  height: 42px;
+  width: 42px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 42px;
+}
+.alex-rivera9 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.jamietechguru008 {
+  width: 79px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  display: inline-block;
+}
+.alex-rivera-parent2,
+.ellipse-parent2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.alex-rivera-parent2 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ellipse-parent2 {
+  width: 151px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 8px;
+  text-align: center;
+}
+.footer-footer-l-product-featur,
+.testimonial8 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.testimonial8 {
+  flex: 0.7538;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-100);
+  box-shadow: 0 7px 14px #eaeaea;
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-21xl) var(--padding-20xl);
+  gap: 20px 0;
+  min-width: 244px;
+}
+.footer-footer-l-product-featur {
+  width: 1016px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0 20.5px;
+  text-align: left;
+  font-size: var(--body-bold-size);
+  color: var(--color-black);
+  font-family: var(--body-s);
+}
+@media screen and (max-width: 1050px) {
+  .footer-footer-l-product-featur {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .testimonial6,
+  .testimonial8 {
+    flex: 1;
+  }
+}

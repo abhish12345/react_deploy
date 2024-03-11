@@ -1,0 +1,69 @@
+.icons2 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.integration-ecosystem {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.track-your-progress,
+.your-efforts-everyday {
+  margin: 0;
+}
+.body4,
+.get-for-free3 {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.body4 {
+  align-self: stretch;
+}
+.get-for-free3 {
+  white-space: nowrap;
+}
+.icons3 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buttons3 {
+  height: 43px;
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 0;
+  box-sizing: border-box;
+  gap: 0 4px;
+}
+.buttons-sign-up,
+.ellipse-avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.buttons-sign-up {
+  align-self: stretch;
+  font-size: var(--body-bold-size);
+  font-family: var(--body-s);
+}
+.ellipse-avatar {
+  flex: 1;
+  padding: var(--padding-21xl) 0 var(--padding-22xl);
+  box-sizing: border-box;
+  min-width: 205px;
+  max-width: 260px;
+  text-align: left;
+  font-size: var(--h5-size);
+  color: var(--color-black);
+  font-family: var(--h2);
+}
